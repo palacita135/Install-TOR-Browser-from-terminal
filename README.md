@@ -9,6 +9,7 @@ As user run the following command:
 
 # For ubuntu
 ```bash
+sudo apt install flatpak
 flatpak install flathub org.torproject.TorBrowser
 flatpak run org.torproject.TorBrowser
 ```
