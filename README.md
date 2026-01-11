@@ -7,7 +7,7 @@ As user run the following command:
     
     torbrowser-launcher
 
-#For ubuntu
+# For ubuntu
 ```bash
 flatpak install flathub org.torproject.TorBrowser
 flatpak run org.torproject.TorBrowser
